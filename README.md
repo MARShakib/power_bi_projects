@@ -6,6 +6,7 @@ This repository contains a collection of interactive Power BI projects that show
 ## Table of Contents
 1. [Data Professional Survey Breakdown](#data-professional-survey-breakdown)
 2. [AdventureWorks Internet Sales Dashboard](#adventureworks-internet-sales-dashboard)
+3. [Marketing Analysis Dashboard](#marketing-analysis-dashboard)
 
 ## 1. Data Professional Survey Breakdown
 ### Project Description
@@ -43,6 +44,28 @@ This project leverages the AdventureWorks sample database to improve internet sa
 
 ### Published Power BI Report
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI3YjQ4MTItY2JhMy00ZDEwLWJiZmQtMjIwYmM5MjZiZTAzIiwidCI6IjQ0YzlmY2FlLTUzZDEtNDRiZS1iMTRmLTYxZDQ3ZTI2ZDJjYyIsImMiOjEwfQ%3D%3D)
+
+---
+
+## 3. Marketing Analysis Dashboard
+### Project Description
+This project focuses on improving marketing strategies through customer engagement and feedback analysis. The dataset includes customer reviews, social media comments, and campaign performance metrics, providing valuable insights into customer behavior, engagement rates, and conversion challenges.
+
+Sentiment analysis was conducted using Python to assess customer feedback, while SQL Server was used to store and manage the marketing data. The project aims to optimize marketing efforts by analyzing engagement trends, conversion rates, and customer sentiments.
+
+### Tools Used
+- Power BI
+- MS SQL Server
+- Python (for sentiment analysis)
+
+### Key Insights
+- **Conversion rate analysis** identifying factors impacting conversion.
+- **Engagement metrics** highlighting the most engaging content.
+- **Customer feedback sentiment analysis** with actionable recommendations for improving customer experience.
+- **Campaign performance** analysis to evaluate ROI and effectiveness.
+
+### Published Power BI Report
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWYxMmM0YzAtODA4Ni00MWFmLThkYTQtZjdjNDExYzEzOWM2IiwidCI6IjQ0YzlmY2FlLTUzZDEtNDRiZS1iMTRmLTYxZDQ3ZTI2ZDJjYyIsImMiOjEwfQ%3D%3D)
 
 ---
 
