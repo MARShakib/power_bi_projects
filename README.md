@@ -4,9 +4,9 @@
 This repository contains a collection of interactive Power BI projects that showcase my skills in data analysis, visualization, and storytelling. The projects include datasets sourced from Excel and SQL databases, focusing on providing actionable insights for industry and business analysis. Each project has been published to Power BI and can be accessed through the provided links.
 
 ## Table of Contents
-1. [Data Professional Survey Breakdown](#data-professional-survey-breakdown)
-2. [AdventureWorks Internet Sales Dashboard](#adventureworks-internet-sales-dashboard)
-3. [Marketing Analysis Dashboard](#marketing-analysis-dashboard)
+1. [Data Professional Survey Breakdown](https://github.com/MARShakib/power_bi_projects/tree/main/Data_Professional_Survey_Breakdown)
+2. [AdventureWorks Internet Sales Dashboard](https://github.com/MARShakib/power_bi_projects/tree/main/Project_on_AdventureWorksSampleDb)
+3. [Marketing Analysis Dashboard](https://github.com/MARShakib/power_bi_projects/tree/main/Marketing_Analysis)
 
 ## 1. Data Professional Survey Breakdown
 ### Project Description
